@@ -1,6 +1,4 @@
-## Hi there 👋 I'm Pedro
-> Front-end Developer
-
+## Hi there :call_me_hand: I'm Pedro 
 
 <img src="https://komarev.com/ghpvc/?username=phmachado" alt="phmachado" />
 
