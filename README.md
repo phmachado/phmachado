@@ -1,4 +1,4 @@
-## Hi there :call_me_hand: I'm Pedro 
+## Hi there :call_me_hand: 
 
 <img src="https://komarev.com/ghpvc/?username=phmachado" alt="phmachado" />
 
