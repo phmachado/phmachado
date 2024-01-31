@@ -6,7 +6,7 @@
 <br>
 :mortar_board: Degree in Computer Engineering and currently enrolling a graduate course in Software Engineering
 <br>
-:wrench: Main skills: JavaScript, TypeScript, React, React Native, HTML and CSS
+:wrench: Main skills: React, React Native, JavaScript, TypeScript, HTML and CSS
 
 ### Programming Languages 🌐
 
