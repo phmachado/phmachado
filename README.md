@@ -2,11 +2,11 @@
 
 <img src="https://komarev.com/ghpvc/?username=phmachado" alt="phmachado" />
 
-:bust_in_silhouette: Software Engineer with demonstrated experience in Front-end Development
+:bust_in_silhouette: Software Engineer with 4+ years of demonstrated experience
 <br>
-:mortar_board: Degree in Computer Engineering and currently enrolling a graduate course in Software Engineering
+:mortar_board: Degree in Computer Engineering
 <br>
-:wrench: Main skills: React, React Native, JavaScript, TypeScript, HTML and CSS
+:wrench: Main skills: HTML, CSS, JavaScript, React, React Native and Node.js
 
 ### Programming Languages 🌐
 
