@@ -1,4 +1,4 @@
-## Hi there :call_me_hand: 
+## Hi there :handshake: 
 
 <img src="https://komarev.com/ghpvc/?username=phmachado" alt="phmachado" />
 
