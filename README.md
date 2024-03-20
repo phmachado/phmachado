@@ -6,7 +6,7 @@
 <br>
 :mortar_board: Degree in Computer Engineering
 <br>
-:wrench: Main skills: HTML, CSS, JavaScript, React, React Native and Node.js
+:wrench: Main skills: React, React Native, JavaScript, TypeScript, Node.js, HTML and CSS
 
 ### Programming Languages 🌐
 
