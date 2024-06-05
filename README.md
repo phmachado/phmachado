@@ -4,7 +4,7 @@
 
 :bust_in_silhouette: Software Engineer with 4+ years of demonstrated experience
 <br>
-:mortar_board: Degree in Computer Engineering and graduate course in Software Engineering
+:mortar_board: Degree in Computer Engineering at UFPE and graduate course in Software Engineering at PUC Minas
 <br>
 :wrench: Main skills: React, React Native, Node.js, JavaScript, TypeScript, HTML and CSS
 
