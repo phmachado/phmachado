@@ -6,7 +6,7 @@
 <br>
 :mortar_board: Degree in Computer Engineering at UFPE and graduate course in Software Engineering at PUC Minas
 <br>
-:wrench: Main skills: React, React Native, Node.js, JavaScript, TypeScript, HTML & CSS
+:wrench: Main skills: React, React Native, Node.js, JavaScript, TypeScript, HTML, CSS & AI tools
 
 ### Programming Languages 🌐
 
