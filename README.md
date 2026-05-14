@@ -4,7 +4,7 @@
 
 :bust_in_silhouette: Software Engineer with solid experience building and delivering scalable web and mobile applications
 <br>
-:mortar_board: Degree in Computer Engineering at UFPE and graduate course in Software Engineering at PUC Minas
+:mortar_board: Bachelor's in Computer Engineering (UFPE) and postgraduate degree in Software Engineering (PUC Minas)
 <br>
 :wrench: Main skills: React, React Native, Node.js, TypeScript, & AI tools
 
