@@ -6,7 +6,7 @@
 <br>
 :mortar_board: Bachelor's in Computer Engineering (UFPE) and postgraduate degree in Software Engineering (PUC Minas)
 <br>
-:wrench: Main skills: React, React Native, Node.js, TypeScript, & AI tools
+:wrench: Main skills: React, React Native, Node.js, TypeScript, AI tools
 
 ### Programming Languages 🌐
 
